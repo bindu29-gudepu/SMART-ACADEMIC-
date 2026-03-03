@@ -1,0 +1,23 @@
+body {
+    background-color: #eef2f7;
+}
+
+h1, h2, h3 {
+    color: #003366;
+    font-weight: bold;
+}
+
+.stButton>button {
+    background: linear-gradient(to right, #0066cc, #003366);
+    color: white;
+    border-radius: 10px;
+    padding: 8px 16px;
+}
+
+.stSelectbox, .stRadio {
+    border-radius: 8px;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #d9e6f2;
+}
